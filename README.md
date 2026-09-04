@@ -44,7 +44,7 @@ vym/
 ### Prerequisites
 
 - **Node.js**: `>= 24.0.0`
-- **pnpm**: `>= 10.0.0`
+- **pnpm**: `>= 11.0.0`
 
 ### Quick Start
 
